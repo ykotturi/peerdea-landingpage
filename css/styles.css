@@ -1,0 +1,82 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Custom background colors */
+.bg-lightyellow {
+    background-color: #faf9da; 
+    /*  #FAF8CC; */
+}
+
+.bg-lightgray {
+    background-color: #F5F5F5;
+}
+
+/* Images */
+.cheerpeer-logo {
+    height: 50px;
+    width: auto;
+}
+
+.collaborator-logo {
+    max-height: 100px;
+}
+
+.peerdea-login-img {
+    height: auto;
+    width: auto;
+}
+
+.why-img {
+    height: 300px;
+    width: auto;
+}
+
+/* Nav Bar */
+/* #navbarSupportedContent a {
+    color: #5298F2;
+}
+
+#navbarSupportedContent a.active {
+    color: #296ec8;
+} */
+
+/* Header */
+
+#heading button {
+    background-color: #5298F2;
+}
+
+#heading button:hover {
+    background-color: #296ec8
+}
+
+/* Carousel */
+#howCheerpeerCarousel {
+    background-color: #C4C4C4;
+}
+
+.carousel-item img {
+    height: 300px;
+    max-width: 300px;
+}
+
+.carousel-indicators {
+    color: black;
+}
+
+/* Download Section */
+
+#download button {
+    background-color: #5298F2;
+}
+
+#download button:hover {
+    background-color: #296ec8
+}
+
+/* Bottom bar */
+.bottom-bar {
+    position: sticky;
+    bottom: 0;
+}
