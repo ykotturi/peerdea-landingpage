@@ -52,8 +52,8 @@ body {
 }
 
 .carousel-item img {
-    min-height: 600px;
     max-height: 600px;
+    max-width: 800px;
 }
 
 /* Download Section */
