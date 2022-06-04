@@ -22,11 +22,6 @@ body {
     max-height: 100px;
 }
 
-.peerdea-login-img {
-    height: auto;
-    width: auto;
-}
-
 .why-img {
     height: 300px;
     width: auto;
@@ -57,12 +52,7 @@ body {
 }
 
 .carousel-item img {
-    height: 300px;
-    max-width: 300px;
-}
-
-.carousel-indicators {
-    color: black;
+    max-height: 600px;
 }
 
 /* Download Section */
