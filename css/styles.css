@@ -19,22 +19,13 @@ body {
 }
 
 .collaborator-logo {
-    max-height: 100px;
+    max-height: 400px;
 }
 
 .why-img {
     height: 300px;
     width: auto;
 }
-
-/* Nav Bar */
-/* #navbarSupportedContent a {
-    color: #5298F2;
-}
-
-#navbarSupportedContent a.active {
-    color: #296ec8;
-} */
 
 /* Header */
 
