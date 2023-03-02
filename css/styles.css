@@ -3,8 +3,8 @@ body {
 }
 
 /* Custom background colors */
-.bg-lightyellow {
-    background-color: #faf9da; 
+.bg-lightblue {
+    background-color: #dae7fa; 
     /*  #FAF8CC; */
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 /* Images */
-.cheerpeer-logo {
+.logo {
     height: 50px;
     width: auto;
 }
@@ -30,7 +30,7 @@ body {
 /* Header */
 
 #heading button {
-    background-color: #5298F2;
+    background-color: #0488ff;
 }
 
 #heading button:hover {
@@ -38,7 +38,7 @@ body {
 }
 
 /* Carousel */
-#howCheerpeerCarousel {
+#howPeerdeaCarousel {
     background-color: #C4C4C4;
 }
 
